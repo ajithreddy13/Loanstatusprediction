@@ -27,14 +27,14 @@ The dataset used for this project is sourced from [Kaggle's Loan Prediction Prob
 1. Clone the repository:
    ```bash
    git clone https://github.com/ajithreddy13/Loanstatusprediction.git
+
 ##How to work
 pip install -r requirements.txt
 jupyter notebook ML_loan_status.ipynb
  
 ##Future Work
+
 Improve model accuracy by exploring advanced algorithms.
-
 Deploy the model using a web framework like Flask or Django.
-
 Integrate a user-friendly interface for inputting applicant data.
 
