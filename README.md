@@ -35,6 +35,8 @@ jupyter notebook ML_loan_status.ipynb
 ##Future Work
 
 Improve model accuracy by exploring advanced algorithms.
+
 Deploy the model using a web framework like Flask or Django.
+
 Integrate a user-friendly interface for inputting applicant data.
 
