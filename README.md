@@ -29,7 +29,9 @@ The dataset used for this project is sourced from [Kaggle's Loan Prediction Prob
    git clone https://github.com/ajithreddy13/Loanstatusprediction.git
 
 ##How to work
+
 pip install -r requirements.txt
+
 jupyter notebook ML_loan_status.ipynb
  
 ##Future Work
